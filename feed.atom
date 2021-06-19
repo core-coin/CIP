@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cip.coreblockchain.cc</id>
+    <title>CIP</title>
+    <updated>2021-06-19T15:45:10.881Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://cip.coreblockchain.cc"/>
+    <link rel="self" href="https://cip.coreblockchain.cc/feed.atom"/>
+    <subtitle>Core Improvement Proposals</subtitle>
+</feed>
