@@ -4,7 +4,7 @@
         <title>CIP</title>
         <link>https://cip.coreblockchain.cc</link>
         <description>Core Improvement Proposals</description>
-        <lastBuildDate>Sat, 19 Jun 2021 15:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 16:08:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://cip.coreblockchain.cc/feed.atom" rel="self" type="application/rss+xml"/>
