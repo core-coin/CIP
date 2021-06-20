@@ -4,5 +4,13 @@
     "home_page_url": "https://cip.coreblockchain.cc",
     "feed_url": "https://cip.coreblockchain.cc/feed.json",
     "description": "Core Improvement Proposals",
-    "items": []
+    "items": [
+        {
+            "id": "https://cip.coreblockchain.cc/cips/cip-100/",
+            "url": "https://cip.coreblockchain.cc/cips/cip-100/",
+            "title": "ICAN",
+            "summary": "\n\nWe introduce a standard for crypto addresses — ICAN — with HRP and checksum, similar to what we all are using for current financial transactions. ICAN stands for International Crypto Account Number.\nOnly hexadecimal characters are used to minimize the size of the address in the Blockchain storage.",
+            "date_modified": "2021-06-20T00:00:00.000Z"
+        }
+    ]
 }

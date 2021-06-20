@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cip.coreblockchain.cc</id>
     <title>CIP</title>
-    <updated>2021-06-19T16:08:08.887Z</updated>
+    <updated>2021-06-20T11:04:27.056Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://cip.coreblockchain.cc"/>
     <link rel="self" href="https://cip.coreblockchain.cc/feed.atom"/>
     <subtitle>Core Improvement Proposals</subtitle>
+    <entry>
+        <title type="html"><![CDATA[ICAN]]></title>
+        <id>https://cip.coreblockchain.cc/cips/cip-100/</id>
+        <link href="https://cip.coreblockchain.cc/cips/cip-100/">
+        </link>
+        <updated>2021-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+
+We introduce a standard for crypto addresses — ICAN — with HRP and checksum, similar to what we all are using for current financial transactions. ICAN stands for International Crypto Account Number.
+Only hexadecimal characters are used to minimize the size of the address in the Blockchain storage.]]></summary>
+    </entry>
 </feed>
